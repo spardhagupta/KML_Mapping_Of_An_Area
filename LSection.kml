@@ -1,0 +1,1530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>LSection.kml</name>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Temporary Places</name>
+		<open>1</open>
+		<Placemark>
+			<name>College Park North Entrance 4</name>
+			<open>1</open>
+			<LookAt>
+				<gx:ViewerOptions>
+					<gx:option enabled="0" name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-97.07519531323234</longitude>
+				<latitude>32.72683421689638</latitude>
+				<altitude>0</altitude>
+				<heading>101.9272353899138</heading>
+				<tilt>87.99084498079709</tilt>
+				<range>3210.853095804742</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-97.10859219755957,32.73279822170346,186.8415200615652</coordinates>
+			</Point>
+		</Placemark>
+		<Document>
+			<name>Basketball Court.kml</name>
+			<StyleMap id="msn_ylw-pushpin">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#sn_ylw-pushpin</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#sh_ylw-pushpin</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="sn_ylw-pushpin">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff0000</color>
+					<width>3.5</width>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<Style id="sh_ylw-pushpin">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff0000</color>
+					<width>3.5</width>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<Placemark>
+				<name>Basketball Court</name>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-97.10815255746286,32.73346763607101,0 -97.1081558389357,32.73330780544563,0 -97.10801955073544,32.73330240948116,0 -97.10801450585051,32.7334684851672,0 -97.10815255746286,32.73346763607101,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Document>
+		<Document>
+			<name>Bombay Chopstick.kml</name>
+			<Style id="s_ylw-pushpin_hl0">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<Style id="s_ylw-pushpin0">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<StyleMap id="m_ylw-pushpin0">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin0</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Placemark>
+				<name>Bombay Chopstick</name>
+				<LookAt>
+					<longitude>-97.10856761728439</longitude>
+					<latitude>32.7326925011477</latitude>
+					<altitude>6.497570059474457</altitude>
+					<heading>160.1528441153687</heading>
+					<tilt>45.0163876725609</tilt>
+					<range>73.15442060278836</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.10856782334479,32.7324177234236,184.546118001986</coordinates>
+				</Point>
+			</Placemark>
+		</Document>
+		<Document>
+			<name>College Ministry Entrance.kml</name>
+			<StyleMap id="m_ylw-pushpin1">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin1</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="s_ylw-pushpin_hl1">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<Style id="s_ylw-pushpin1">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<Placemark>
+				<name>College Ministry</name>
+				<LookAt>
+					<longitude>-97.10865147052337</longitude>
+					<latitude>32.73329469838897</latitude>
+					<altitude>0</altitude>
+					<heading>68.6159115743076</heading>
+					<tilt>47.61919910286346</tilt>
+					<range>80.94382457224594</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.10856344108086,32.73329676445685,189.9416775147114</coordinates>
+				</Point>
+			</Placemark>
+		</Document>
+		<Document>
+			<name>College Ministry.kml</name>
+			<Style id="sn_ylw-pushpin0">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff0000</color>
+					<width>2.5</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff0000</color>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<Style id="sh_ylw-pushpin1">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff0000</color>
+					<width>2.5</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffff0000</color>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<StyleMap id="msn_ylw-pushpin1">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#sn_ylw-pushpin0</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#sh_ylw-pushpin1</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Placemark>
+				<name>College Ministry</name>
+				<styleUrl>#msn_ylw-pushpin1</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-97.1085478497307,32.73346179784009,0 -97.10854840600449,32.73341020884934,0 -97.10856785085913,32.7334046456524,0 -97.10856641381527,32.73335512372344,0 -97.10858326476178,32.73334907125163,0 -97.10858381292728,32.73322501792821,0 -97.10857126144603,32.73322778252,0 -97.10857030800187,32.73317093191803,0 -97.10855045739297,32.73317116877464,0 -97.10855335523016,32.73311782010705,0 -97.10831892046264,32.73311864085716,0 -97.10824952542117,32.73311656050299,0 -97.10824301837432,32.73345971463444,0 -97.1085478497307,32.73346179784009,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Document>
+		<Document>
+			<name>College Park North and Central Parking Entrance 2.kml</name>
+			<StyleMap id="m_ylw-pushpin2">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin2</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="s_ylw-pushpin2">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<Style id="s_ylw-pushpin_hl2">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<Placemark>
+				<name>College Park North and Central Parking Entrance 2</name>
+				<LookAt>
+					<longitude>-97.10738087246567</longitude>
+					<latitude>32.73295666970766</latitude>
+					<altitude>0</altitude>
+					<heading>-88.18925544941943</heading>
+					<tilt>45.01642935129826</tilt>
+					<range>79.71414189251496</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.10736784193242,32.73296003889544,0</coordinates>
+				</Point>
+			</Placemark>
+		</Document>
+		<Document>
+			<name>College Park North and Central Parking Entrance 3.kml</name>
+			<Style id="s_ylw-pushpin3">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<Style id="s_ylw-pushpin_hl3">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<StyleMap id="m_ylw-pushpin3">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin3</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl3</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Placemark>
+				<name>College Park North and Central Parking Entrance 3</name>
+				<Camera>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-97.10817099999998</longitude>
+					<latitude>32.732048</latitude>
+					<altitude>2.499999999172704</altitude>
+					<heading>10.65750457300093</heading>
+					<tilt>92.50000000000001</tilt>
+					<roll>-2.464929878134225e-014</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#m_ylw-pushpin3</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.10819592277105,32.7323954406798,190.1758772316896</coordinates>
+				</Point>
+			</Placemark>
+		</Document>
+		<Document>
+			<name>College Park North and Central Parking Entrance.kml</name>
+			<Style id="s_ylw-pushpin4">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<Style id="s_ylw-pushpin_hl4">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<StyleMap id="m_ylw-pushpin4">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin4</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl4</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Placemark>
+				<name>College Park North and Central Parking Entrance</name>
+				<LookAt>
+					<longitude>-97.10770791855838</longitude>
+					<latitude>32.73363091884121</latitude>
+					<altitude>0</altitude>
+					<heading>160.1533089874384</heading>
+					<tilt>45.01644206192739</tilt>
+					<range>81.7147692140195</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin4</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.10765997497083,32.73364786054687,0</coordinates>
+				</Point>
+			</Placemark>
+		</Document>
+		<Document>
+			<name>College Park North and Central Parking.kml</name>
+			<Style id="sh_ylw-pushpin2">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff5500</color>
+					<width>3.4</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>ff0000ff</color>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<StyleMap id="msn_ylw-pushpin0">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#sn_ylw-pushpin1</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#sh_ylw-pushpin2</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="sn_ylw-pushpin1">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff5500</color>
+					<width>3.4</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>ff0000ff</color>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<Placemark>
+				<name>College Park North and Central Parking</name>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-97.10736334780063,32.73364583945458,0 -97.10799467618973,32.73364727812307,0 -97.10801094566777,32.73290031502335,0 -97.10827246328684,32.73290126999238,0 -97.10828760018715,32.73238260028872,0 -97.10749917845436,32.73237408999617,0 -97.10750341387552,32.73226230796006,0 -97.10805308912011,32.73227679269861,0 -97.10805175180465,32.7321231066679,0 -97.10736870907951,32.73210286024772,0 -97.10736334780063,32.73364583945458,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Document>
+		<Document>
+			<name>college Park South Parking Garage Entrance 2.kml</name>
+			<StyleMap id="m_ylw-pushpin5">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin5</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl5</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="s_ylw-pushpin5">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<Style id="s_ylw-pushpin_hl5">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<Placemark>
+				<name>college Park South Parking Garage Entrance 2</name>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-97.10507177777372</longitude>
+					<latitude>32.72957790337064</latitude>
+					<altitude>0</altitude>
+					<heading>132.0750949075771</heading>
+					<tilt>65.39722560499088</tilt>
+					<range>452.2455710449743</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin5</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.10819504533728,32.73200151395473,185.4266036154471</coordinates>
+				</Point>
+			</Placemark>
+		</Document>
+		<Document>
+			<name>College Park South Parking Garage Entrance.kml</name>
+			<Style id="s_ylw-pushpin_hl6">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<StyleMap id="m_ylw-pushpin6">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin6</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl6</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="s_ylw-pushpin6">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<Placemark>
+				<name>College Park South Parking Garage Entrance</name>
+				<LookAt>
+					<longitude>-97.10705499188029</longitude>
+					<latitude>32.73164096689329</latitude>
+					<altitude>4.900135166906274</altitude>
+					<heading>-169.6241455107164</heading>
+					<tilt>45.00055620359184</tilt>
+					<range>94.68065548047866</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.10734520286053,32.73170422492094,0</coordinates>
+				</Point>
+			</Placemark>
+		</Document>
+		<Document>
+			<name>Dan Dipert Welcome center.kml</name>
+			<StyleMap id="msn_ylw-pushpin2">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#sn_ylw-pushpin2</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#sh_ylw-pushpin0</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="sn_ylw-pushpin2">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff5500</color>
+					<width>2.5</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>ff0000ff</color>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<Style id="sh_ylw-pushpin0">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff5500</color>
+					<width>2.5</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>ff0000ff</color>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<Placemark>
+				<name>Dan Dipert Welcome center</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-97.10824018092501,32.73130779848208,0 -97.10824021479137,32.73126766910966,0 -97.10818061121742,32.73126623776905,0 -97.10818025850114,32.7311981885862,0 -97.10801912354022,32.73119138197404,0 -97.10801631194148,32.73120946639363,0 -97.10781043262971,32.7312072308738,0 -97.10780654767019,32.7311953870127,0 -97.10742399402744,32.73119230036929,0 -97.10742086486179,32.73133270696055,0 -97.10743128135799,32.73133786256592,0 -97.10743288527176,32.73142643834076,0 -97.10744527572302,32.73144144504792,0 -97.10753147808426,32.73144642641363,0 -97.10753292501808,32.73133835999159,0 -97.10807163597855,32.73134538877115,0 -97.10815745922135,32.7313440730008,0 -97.10816009632224,32.73139329238219,0 -97.10824540171642,32.73139596679304,0 -97.10824018092501,32.73130779848208,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Document>
+		<Document>
+			<name>Frozen Yogurt.kml</name>
+			<StyleMap id="m_ylw-pushpin7">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin7</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl7</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="s_ylw-pushpin7">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<Style id="s_ylw-pushpin_hl7">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<Placemark>
+				<name>Frozen Yogurt</name>
+				<LookAt>
+					<longitude>-97.10875416036203</longitude>
+					<latitude>32.73255092861163</latitude>
+					<altitude>0</altitude>
+					<heading>160.1527432263689</heading>
+					<tilt>45.01540278960346</tilt>
+					<range>82.6562323656326</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin7</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.10856636640713,32.73257439180945,184.3207450860659</coordinates>
+				</Point>
+			</Placemark>
+		</Document>
+		<Document>
+			<name>Panera Bread.kml</name>
+			<Style id="s_ylw-pushpin_hl8">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<StyleMap id="m_ylw-pushpin8">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin8</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl8</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="s_ylw-pushpin8">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<Placemark>
+				<name>Panera Bread</name>
+				<LookAt>
+					<longitude>-97.108686573276</longitude>
+					<latitude>32.73162791484388</latitude>
+					<altitude>0</altitude>
+					<heading>65.1191006429507</heading>
+					<tilt>59.90875323076941</tilt>
+					<range>112.560470820297</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin8</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.10859812386937,32.73133288901746,0</coordinates>
+				</Point>
+			</Placemark>
+		</Document>
+		<Document>
+			<name>Park South Parking Garage, UTA.kml</name>
+			<StyleMap id="msn_ylw-pushpin3">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#sn_ylw-pushpin20</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#sh_ylw-pushpin3</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="sn_ylw-pushpin20">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff5500</color>
+					<width>2.5</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>ff0000ff</color>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<Style id="sh_ylw-pushpin3">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff5500</color>
+					<width>2.5</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>ff0000ff</color>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<Placemark>
+				<name>Park South Parking Garage, UTA</name>
+				<styleUrl>#msn_ylw-pushpin3</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-97.10734760625324,32.73199305792446,0 -97.10761232742352,32.73200048402934,0 -97.10761426358717,32.73195530240299,0 -97.10822740450715,32.73196469332403,0 -97.10822498833259,32.73200627388322,0 -97.10828746229672,32.73200446755806,0 -97.1082870400522,32.73196344021758,0 -97.10830883075543,32.73196357674974,0 -97.10831107155292,32.73186476216736,0 -97.1082970264905,32.73185969367903,0 -97.10830008264723,32.73151304659253,0 -97.1082503772427,32.73150502947495,0 -97.10824879603871,32.73145394507809,0 -97.10771879559444,32.73145171275551,0 -97.10745442100236,32.73145088278352,0 -97.10742882282013,32.73143396656982,0 -97.10736600799704,32.7314284911965,0 -97.10736484903366,32.73150857564728,0 -97.10738455099454,32.73151440703828,0 -97.10738344897067,32.73179080114947,0 -97.10734457985816,32.73178514076545,0 -97.10734760625324,32.73199305792446,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Document>
+		<Document>
+			<name>Pie Five Pizza.kml</name>
+			<Style id="s_ylw-pushpin_hl9">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<StyleMap id="m_ylw-pushpin9">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin9</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl9</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="s_ylw-pushpin9">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<Placemark>
+				<name>Pie Five Pizza</name>
+				<LookAt>
+					<longitude>-97.10877750245145</longitude>
+					<latitude>32.731790375909</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0002036689894933243</heading>
+					<tilt>44.99997835659976</tilt>
+					<range>59.41975245976833</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin9</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.10858994275746,32.73182077355481,0</coordinates>
+				</Point>
+			</Placemark>
+		</Document>
+		<Document>
+			<name>S Center St.kml</name>
+			<StyleMap id="m_ylw-pushpin00">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin00</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl00</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="s_ylw-pushpin00">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ff00aa00</color>
+					<width>5</width>
+				</LineStyle>
+			</Style>
+			<Style id="s_ylw-pushpin_hl00">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ff00aa00</color>
+					<width>5</width>
+				</LineStyle>
+			</Style>
+			<Placemark>
+				<name>S Center St</name>
+				<styleUrl>#m_ylw-pushpin00</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-97.1071911496941,32.73372963294013,-7.081154781429788e-010 -97.10724126508664,32.73108530036817,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Document>
+		<Document>
+			<name>Spanilo Dr.kml</name>
+			<Style id="s_ylw-pushpin_hl01">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ff00aa00</color>
+					<width>5</width>
+				</LineStyle>
+			</Style>
+			<Style id="s_ylw-pushpin01">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ff00aa00</color>
+					<width>5</width>
+				</LineStyle>
+			</Style>
+			<StyleMap id="m_ylw-pushpin01">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin01</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl01</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Placemark>
+				<name>Spanilo Dr</name>
+				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-97.10859268044621,32.73373357350517,-7.081154781429788e-010 -97.10871008308001,32.733410409325,0 -97.10874276678041,32.73110630604979,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Document>
+		<Document>
+			<name>Texadelpheia.kml</name>
+			<Style id="s_ylw-pushpin_hl10">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<StyleMap id="m_ylw-pushpin10">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin10</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl10</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="s_ylw-pushpin10">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<Placemark>
+				<name>Texadelpheia</name>
+				<LookAt>
+					<longitude>-97.108612132961</longitude>
+					<latitude>32.73212786983601</latitude>
+					<altitude>0</altitude>
+					<heading>139.8181325007982</heading>
+					<tilt>47.09087092167695</tilt>
+					<range>90.33215120477081</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin10</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.10859215964331,32.7322876760585,188.8151062351258</coordinates>
+				</Point>
+			</Placemark>
+		</Document>
+		<Document>
+			<name>Texadelphia.kml</name>
+			<StyleMap id="msn_ylw-pushpin4">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#sn_ylw-pushpin21</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#sh_ylw-pushpin4</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="sh_ylw-pushpin4">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff5500</color>
+					<width>2.5</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>ff0000ff</color>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<Style id="sn_ylw-pushpin21">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff5500</color>
+					<width>2.5</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>ff0000ff</color>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<Placemark>
+				<name>Texadelphia</name>
+				<styleUrl>#msn_ylw-pushpin4</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-97.10843692193204,32.73219094524087,0 -97.10832230354633,32.73219430571052,0 -97.10831918408377,32.732272711719,0 -97.10842674956699,32.73227640536035,0 -97.10841593387761,32.73281721687884,0 -97.10829018393956,32.73281419290166,0 -97.10827870658248,32.73290564215655,0 -97.10858742136476,32.73291056876764,0 -97.108588204116,32.73263963698713,0 -97.10857324248828,32.73263800051241,0 -97.10857737446106,32.73252074473879,0 -97.10859146484626,32.73251052199239,0 -97.10859848393943,32.73248115215273,0 -97.10860298554341,32.73226637570058,0 -97.10849945480949,32.73225724780805,0 -97.10849627639038,32.73219591567206,0 -97.10843692193204,32.73219094524087,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Document>
+		<Document>
+			<name>Texas Trust.kml</name>
+			<Style id="s_ylw-pushpin11">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<StyleMap id="m_ylw-pushpin11">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin11</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl11</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="s_ylw-pushpin_hl11">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<Placemark>
+				<name>Texas Trust</name>
+				<Camera>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-97.10722540895225</longitude>
+					<latitude>32.73206459331082</latitude>
+					<altitude>2.500000001823211</altitude>
+					<heading>-70.10959183974657</heading>
+					<tilt>93.64397763398753</tilt>
+					<roll>-1.118366084697201e-005</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#m_ylw-pushpin11</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.10736477913652,32.73214779493058,196.0404468699059</coordinates>
+				</Point>
+			</Placemark>
+		</Document>
+		<Document>
+			<name>The Lofts At College Park.kml</name>
+			<Style id="s_ylw-pushpin_hl12">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<Style id="s_ylw-pushpin12">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<StyleMap id="m_ylw-pushpin12">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin12</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl12</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Placemark>
+				<name>The Lofts At College Park</name>
+				<LookAt>
+					<longitude>-97.10750240756181</longitude>
+					<latitude>32.73218283350754</latitude>
+					<altitude>13.55309620468</altitude>
+					<heading>-21.33757013393115</heading>
+					<tilt>8.198640650516845</tilt>
+					<range>196.6983150691514</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin12</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.10803889840778,32.73216790046126,189.2329929397372</coordinates>
+				</Point>
+			</Placemark>
+		</Document>
+		<Document>
+			<name>University Police Station.kml</name>
+			<Style id="s_ylw-pushpin_hl13">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<Style id="s_ylw-pushpin13">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<StyleMap id="m_ylw-pushpin13">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin13</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl13</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Placemark>
+				<name>University Police Station</name>
+				<Camera>
+					<gx:ViewerOptions>
+						<gx:option enabled="0" name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-97.10810599999999</longitude>
+					<latitude>32.73204800000001</latitude>
+					<altitude>2.500000000118314</altitude>
+					<heading>-54.39833133509743</heading>
+					<tilt>92.59780376852025</tilt>
+					<roll>-0.000168908968387272</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#m_ylw-pushpin13</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.10827720618165,32.73217682968393,189.5910032746066</coordinates>
+				</Point>
+			</Placemark>
+		</Document>
+		<Document>
+			<name>UTA blvd.kml</name>
+			<Style id="s_ylw-pushpin_hl02">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ff00aa00</color>
+					<width>5</width>
+				</LineStyle>
+			</Style>
+			<StyleMap id="m_ylw-pushpin02">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin02</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl02</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="s_ylw-pushpin02">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ff00aa00</color>
+					<width>5</width>
+				</LineStyle>
+			</Style>
+			<Placemark>
+				<name>UTA blvd</name>
+				<styleUrl>#m_ylw-pushpin02</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-97.10859267556941,32.73373361373066,0 -97.1071911496941,32.73372963294013,-7.081154781429788e-010 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Document>
+		<Document>
+			<name>Vandergriff Hall at College Park.kml</name>
+			<StyleMap id="msn_ylw-pushpin00">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#sn_ylw-pushpin10</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#sh_ylw-pushpin20</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="sn_ylw-pushpin10">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff5500</color>
+					<width>3.4</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>ff0000ff</color>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<Style id="sh_ylw-pushpin20">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff5500</color>
+					<width>3.4</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>ff0000ff</color>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<Placemark>
+				<name>Vandergriff Hall at College Park</name>
+				<styleUrl>#msn_ylw-pushpin00</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-97.10850606181795,32.73198479654776,0 -97.10850881012112,32.73196429911475,0 -97.10860136152064,32.73196362659321,0 -97.10861229520739,32.7317906171793,0 -97.10861186700419,32.73158658273975,0 -97.10861690351919,32.7312963270784,0 -97.10851736942588,32.73129460798181,0 -97.10851857545706,32.73127332176334,0 -97.10828194108217,32.73127398558287,0 -97.10827877125337,32.73141291299239,0 -97.10843101331869,32.73141702643963,0 -97.10842650032832,32.73190376505566,0 -97.10831730617342,32.73190476940661,0 -97.10831662187427,32.73198223364028,0 -97.10850606181795,32.73198479654776,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Document>
+		<Document>
+			<name>Vandergriff Hall.kml</name>
+			<Style id="s_ylw-pushpin14">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<Style id="s_ylw-pushpin_hl14">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<StyleMap id="m_ylw-pushpin14">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin14</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl14</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Placemark>
+				<name>Vandergriff Hall</name>
+				<LookAt>
+					<longitude>-97.1086996364683</longitude>
+					<latitude>32.73181747351512</latitude>
+					<altitude>0</altitude>
+					<heading>65.11909367236035</heading>
+					<tilt>59.90875283436253</tilt>
+					<range>112.4609408641257</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin14</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-97.10860409891343,32.73150231935711,184.7844069074054</coordinates>
+				</Point>
+			</Placemark>
+		</Document>
+		<Document>
+			<name>Volleyball Court.kml</name>
+			<Style id="sn_ylw-pushpin3">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff0000</color>
+					<width>3.5</width>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<StyleMap id="msn_ylw-pushpin5">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#sn_ylw-pushpin3</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#sh_ylw-pushpin5</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="sh_ylw-pushpin5">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff0000</color>
+					<width>3.5</width>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<Placemark>
+				<name>Volleyball Court</name>
+				<styleUrl>#msn_ylw-pushpin5</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-97.10801743473402,32.73329061497326,0 -97.10815639716856,32.73329457746407,0 -97.10815701687375,32.7330775033279,0 -97.10801867000707,32.73307207336325,0 -97.10801743473402,32.73329061497326,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Document>
+		<Document>
+			<name>W 1st Street.kml</name>
+			<Style id="s_ylw-pushpin_hl03">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ff00aa00</color>
+					<width>5</width>
+				</LineStyle>
+			</Style>
+			<Style id="s_ylw-pushpin03">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ff00aa00</color>
+					<width>5</width>
+				</LineStyle>
+			</Style>
+			<StyleMap id="m_ylw-pushpin03">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin03</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl03</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Placemark>
+				<name>W 1st Street</name>
+				<styleUrl>#m_ylw-pushpin03</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-97.10873056515278,32.73205583939443,-7.081154781429788e-010 -97.10722263797163,32.73203630958719,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Document>
+		<Document>
+			<name>W 2nd Street.kml</name>
+			<Style id="s_ylw-pushpin_hl04">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ff00aa00</color>
+					<width>5</width>
+				</LineStyle>
+			</Style>
+			<StyleMap id="m_ylw-pushpin04">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin04</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl04</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="s_ylw-pushpin04">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ff00aa00</color>
+					<width>5</width>
+				</LineStyle>
+			</Style>
+			<Placemark>
+				<name>W 2nd Street</name>
+				<styleUrl>#m_ylw-pushpin04</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-97.10724019216534,32.73108523440387,0 -97.10874338214693,32.73110716214106,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Document>
+	</Folder>
+</Document>
+</kml>

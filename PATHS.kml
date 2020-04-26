@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>PATHS.kml</name>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>S Center St. SIDEWALK 1</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="name">
+				<value>S Center St. SIDEWALK 1</value>
+			</Data>
+			<Data name="styleUrl">
+				<value>#msn_ylw-pushpin</value>
+			</Data>
+			<Data name="styleHash">
+				<value>-303f507b</value>
+			</Data>
+			<Data name="styleMapHash">
+				<value>[object Object]</value>
+			</Data>
+			<Data name="stroke">
+				<value>#ff5500</value>
+			</Data>
+			<Data name="stroke-opacity">
+				<value>1</value>
+			</Data>
+			<Data name="stroke-width">
+				<value>3</value>
+			</Data>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				-97.1073267879669,32.73208527338613,0 -97.10729918002171,32.73358674698555,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>S Center St. SIDEWALK 2</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="name">
+				<value>S Center St. SIDEWALK 2</value>
+			</Data>
+			<Data name="styleUrl">
+				<value>#msn_ylw-pushpin</value>
+			</Data>
+			<Data name="styleHash">
+				<value>-303f507b</value>
+			</Data>
+			<Data name="styleMapHash">
+				<value>[object Object]</value>
+			</Data>
+			<Data name="stroke">
+				<value>#ff5500</value>
+			</Data>
+			<Data name="stroke-opacity">
+				<value>1</value>
+			</Data>
+			<Data name="stroke-width">
+				<value>3</value>
+			</Data>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				-97.10732601582383,32.73117084533845,0 -97.10731409872898,32.73195318000312,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Spaniolo Dr. SIDEWALK1.1</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="name">
+				<value>Spaniolo Dr. SIDEWALK1.1</value>
+			</Data>
+			<Data name="styleUrl">
+				<value>#msn_ylw-pushpin</value>
+			</Data>
+			<Data name="styleHash">
+				<value>-303f507b</value>
+			</Data>
+			<Data name="styleMapHash">
+				<value>[object Object]</value>
+			</Data>
+			<Data name="stroke">
+				<value>#ff5500</value>
+			</Data>
+			<Data name="stroke-opacity">
+				<value>1</value>
+			</Data>
+			<Data name="stroke-width">
+				<value>3</value>
+			</Data>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				-97.10865085525853,32.73116527463842,0 -97.10864049051449,32.73196780966076,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Spaniolo Dr. SIDEWALK1.2</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="name">
+				<value>Spaniolo Dr. SIDEWALK1.2</value>
+			</Data>
+			<Data name="styleUrl">
+				<value>#msn_ylw-pushpin</value>
+			</Data>
+			<Data name="styleHash">
+				<value>-303f507b</value>
+			</Data>
+			<Data name="styleMapHash">
+				<value>[object Object]</value>
+			</Data>
+			<Data name="stroke">
+				<value>#ff5500</value>
+			</Data>
+			<Data name="stroke-opacity">
+				<value>1</value>
+			</Data>
+			<Data name="stroke-width">
+				<value>3</value>
+			</Data>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				-97.10882078143872,32.73116559195433,0 -97.1088155934456,32.73196685809756,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Spaniolo Dr. SIDEWALK2.1</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="name">
+				<value>Spaniolo Dr. SIDEWALK2.1</value>
+			</Data>
+			<Data name="styleUrl">
+				<value>#msn_ylw-pushpin</value>
+			</Data>
+			<Data name="styleHash">
+				<value>-303f507b</value>
+			</Data>
+			<Data name="styleMapHash">
+				<value>[object Object]</value>
+			</Data>
+			<Data name="stroke">
+				<value>#ff5500</value>
+			</Data>
+			<Data name="stroke-opacity">
+				<value>1</value>
+			</Data>
+			<Data name="stroke-width">
+				<value>3</value>
+			</Data>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				-97.1086419391263,32.73214053899037,0 -97.10862762845078,32.73287771146461,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Spaniolo Dr. SIDEWALK2.2</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="name">
+				<value>Spaniolo Dr. SIDEWALK2.2</value>
+			</Data>
+			<Data name="styleUrl">
+				<value>#msn_ylw-pushpin</value>
+			</Data>
+			<Data name="styleHash">
+				<value>-303f507b</value>
+			</Data>
+			<Data name="styleMapHash">
+				<value>[object Object]</value>
+			</Data>
+			<Data name="stroke">
+				<value>#ff5500</value>
+			</Data>
+			<Data name="stroke-opacity">
+				<value>1</value>
+			</Data>
+			<Data name="stroke-width">
+				<value>3</value>
+			</Data>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				-97.10881429313989,32.73229384462546,0 -97.1087871947683,32.733048130736,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Spaniolo Dr. SIDEWALK3.1</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="name">
+				<value>Spaniolo Dr. SIDEWALK3.1</value>
+			</Data>
+			<Data name="styleUrl">
+				<value>#msn_ylw-pushpin</value>
+			</Data>
+			<Data name="styleHash">
+				<value>-303f507b</value>
+			</Data>
+			<Data name="styleMapHash">
+				<value>[object Object]</value>
+			</Data>
+			<Data name="stroke">
+				<value>#ff5500</value>
+			</Data>
+			<Data name="stroke-opacity">
+				<value>1</value>
+			</Data>
+			<Data name="stroke-width">
+				<value>3</value>
+			</Data>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				-97.10864471878726,32.73301959118904,0 -97.10863223424988,32.73344944107689,0 -97.10858109505816,32.73363583542215,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Spaniolo Dr. SIDEWALK3.2</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="name">
+				<value>Spaniolo Dr. SIDEWALK3.2</value>
+			</Data>
+			<Data name="styleUrl">
+				<value>#msn_ylw-pushpin</value>
+			</Data>
+			<Data name="styleHash">
+				<value>-303f507b</value>
+			</Data>
+			<Data name="styleMapHash">
+				<value>[object Object]</value>
+			</Data>
+			<Data name="stroke">
+				<value>#ff5500</value>
+			</Data>
+			<Data name="stroke-opacity">
+				<value>1</value>
+			</Data>
+			<Data name="stroke-width">
+				<value>3</value>
+			</Data>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				-97.10879231229416,32.7333491140664,0 -97.10874585513967,32.73363342411166,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>UTA Blv SIDEWALK</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="name">
+				<value>UTA Blv SIDEWALK</value>
+			</Data>
+			<Data name="styleUrl">
+				<value>#msn_ylw-pushpin</value>
+			</Data>
+			<Data name="styleHash">
+				<value>-303f507b</value>
+			</Data>
+			<Data name="styleMapHash">
+				<value>[object Object]</value>
+			</Data>
+			<Data name="stroke">
+				<value>#ff5500</value>
+			</Data>
+			<Data name="stroke-opacity">
+				<value>1</value>
+			</Data>
+			<Data name="stroke-width">
+				<value>3</value>
+			</Data>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				-97.1084834931013,32.73367013730032,0 -97.10736644000387,32.73366421562553,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>W 1st Street SIDEWALK 1.1</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="name">
+				<value>W 1st Street SIDEWALK 1.1</value>
+			</Data>
+			<Data name="styleUrl">
+				<value>#msn_ylw-pushpin</value>
+			</Data>
+			<Data name="styleHash">
+				<value>-303f507b</value>
+			</Data>
+			<Data name="styleMapHash">
+				<value>[object Object]</value>
+			</Data>
+			<Data name="stroke">
+				<value>#ff5500</value>
+			</Data>
+			<Data name="stroke-opacity">
+				<value>1</value>
+			</Data>
+			<Data name="stroke-width">
+				<value>3</value>
+			</Data>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				-97.10863909067477,32.73213257779485,0 -97.10843518429304,32.73212989906754,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>W 1st Street SIDEWALK 1.2</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="name">
+				<value>W 1st Street SIDEWALK 1.2</value>
+			</Data>
+			<Data name="styleUrl">
+				<value>#msn_ylw-pushpin</value>
+			</Data>
+			<Data name="styleHash">
+				<value>-303f507b</value>
+			</Data>
+			<Data name="styleMapHash">
+				<value>[object Object]</value>
+			</Data>
+			<Data name="stroke">
+				<value>#ff5500</value>
+			</Data>
+			<Data name="stroke-opacity">
+				<value>1</value>
+			</Data>
+			<Data name="stroke-width">
+				<value>3</value>
+			</Data>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				-97.10860956836139,32.73199760461159,0 -97.10834084066828,32.73199319663752,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>W 1st Street SIDEWALK 2.1</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="name">
+				<value>W 1st Street SIDEWALK 2.1</value>
+			</Data>
+			<Data name="styleUrl">
+				<value>#msn_ylw-pushpin</value>
+			</Data>
+			<Data name="styleHash">
+				<value>-303f507b</value>
+			</Data>
+			<Data name="styleMapHash">
+				<value>[object Object]</value>
+			</Data>
+			<Data name="stroke">
+				<value>#ff5500</value>
+			</Data>
+			<Data name="stroke-opacity">
+				<value>1</value>
+			</Data>
+			<Data name="stroke-width">
+				<value>3</value>
+			</Data>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				-97.10824372530632,32.73210970783865,0 -97.10732709907656,32.73208634343578,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>W 1st Street SIDEWALK 2.2</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="name">
+				<value>W 1st Street SIDEWALK 2.2</value>
+			</Data>
+			<Data name="styleUrl">
+				<value>#msn_ylw-pushpin</value>
+			</Data>
+			<Data name="styleHash">
+				<value>-303f507b</value>
+			</Data>
+			<Data name="styleMapHash">
+				<value>[object Object]</value>
+			</Data>
+			<Data name="stroke">
+				<value>#ff5500</value>
+			</Data>
+			<Data name="stroke-opacity">
+				<value>1</value>
+			</Data>
+			<Data name="stroke-width">
+				<value>3</value>
+			</Data>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				-97.10827416009086,32.73201399646301,0 -97.10736179514296,32.73200430468999,0 -97.10731867689707,32.73197016769116,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>W 2nd Street SIDEWALK</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<Data name="name">
+				<value>W 2nd Street SIDEWALK</value>
+			</Data>
+			<Data name="styleUrl">
+				<value>#msn_ylw-pushpin</value>
+			</Data>
+			<Data name="styleHash">
+				<value>-303f507b</value>
+			</Data>
+			<Data name="styleMapHash">
+				<value>[object Object]</value>
+			</Data>
+			<Data name="stroke">
+				<value>#ff5500</value>
+			</Data>
+			<Data name="stroke-opacity">
+				<value>1</value>
+			</Data>
+			<Data name="stroke-width">
+				<value>3</value>
+			</Data>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				-97.1073320719662,32.73114156011479,0 -97.10863195796486,32.73116291484025,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
